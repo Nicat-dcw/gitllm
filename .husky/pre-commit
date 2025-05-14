@@ -1,0 +1,2 @@
+npm test
+npx gitllm commit --model gpt-4.1
