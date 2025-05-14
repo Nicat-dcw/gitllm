@@ -1,6 +1,7 @@
 {
-  "name": "@mirai/gitllm",
-  "version": "1.0.0-beta",
+  "name": "@mir-ai/gitllm",
+  "version": "1.0.1-beta",
+  "public": "true",
   "description": "Generates Commit Messages with power of AI",
   "main": "src/cli.js",
   "scripts": {
@@ -10,7 +11,7 @@
     "ai-config": "node src/config.js"
   },
   "bin": {
-    "gitllm": "./bin/gitllm"
+    "git-llm": "./bin/gitllm"
   },
   "keywords": [
     "ai",
