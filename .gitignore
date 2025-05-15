@@ -1,6 +1,6 @@
 # Ignore node_modules directory
 node_modules/
-
+.gitllm
 # Ignore npm/Yarn lockfiles (optional, remove if you want to track them)
 package-lock.json
 yarn.lock

@@ -14,9 +14,11 @@ const defaultConfig = {
   style: 'concise',
   providers: {
     openai: {
+      url: "https://api.openai.com/v1/",
       models: ['gpt-4.1', 'gpt-3.5-turbo']
     },
     anthropic: {
+      url: "https://api.anthropic.com/v1/",
       models: ['claude-3', 'claude-instant']
     }
   }

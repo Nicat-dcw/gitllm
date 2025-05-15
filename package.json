@@ -1,6 +1,6 @@
 {
   "name": "@mir-ai/gitllm",
-  "version": "1.0.1-beta",
+  "version": "1.0.2-beta",
   "public": "true",
   "description": "Generates Commit Messages with power of AI",
   "main": "src/cli.js",
@@ -26,7 +26,8 @@
   "license": "ISC",
   "devDependencies": {
     "husky": "^8.0.0",
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "js-yaml": "^4.1.0"
   },
   "dependencies": {
     "axios": "^1.9.0",
