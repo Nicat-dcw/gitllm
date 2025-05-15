@@ -1,6 +1,6 @@
 {
   "name": "@mir-ai/gitllm",
-  "version": "1.0.2-beta",
+  "version": "1.0.2",
   "public": "true",
   "description": "Generates Commit Messages with power of AI",
   "main": "src/cli.js",
